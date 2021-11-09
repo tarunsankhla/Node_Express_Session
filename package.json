@@ -1,0 +1,23 @@
+{
+  "name": "node_express_session",
+  "version": "1.0.0",
+  "description": "Express Session handling",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Session"
+  ],
+  "author": "Tarun",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-redis": "^6.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "redis": "^3.1.2"
+  }
+}
